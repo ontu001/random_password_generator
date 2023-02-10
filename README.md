@@ -1,1 +1,1 @@
-"# random_password_generator" 
+In this code, the generate_password function generates a random password of the specified length by selecting random characters from the string.ascii_letters, string.digits, and string.punctuation strings, which contain all the ASCII letters, digits, and punctuation characters, respectively.
